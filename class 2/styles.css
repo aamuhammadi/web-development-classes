@@ -1,0 +1,49 @@
+/* Styling for the headline */
+h2 {
+  text-align: center;
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Styling for the body copy */
+p {
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+/* Styling for the "Sign up now" button */
+button {
+  background-color: #ff4500;
+  color: #fff;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff5722;
+}
+
+/* Styling for the benefits section */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Styling for testimonials */
+blockquote {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+/* Styling for the footer */
+footer {
+  font-size: 14px;
+}
